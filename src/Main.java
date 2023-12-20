@@ -5,7 +5,7 @@ public class Main {
         //Creare un hashmap,
         Map<String, String> capitali = new HashMap<>();
 
-        capitali.put("Luca", "Roma");
+        capitali.put("Italia", "Roma");
         capitali.put("Inghilterra", "Londra");
         capitali.put("Germania", "Berlino");
         capitali.put("Francia", "Parigi");
